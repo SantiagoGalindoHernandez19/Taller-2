@@ -1,7 +1,13 @@
 # Taller-2
--Nombre del equipo: Los siembramaticas:
 
-Integrantes del equipo:
+- NOMBRE DEL EQUIPO:
+
+Los siembramaticas
+
+
+
+
+- INTEGRANTES DEL EQUIPO:
 
 .Donovan
 
@@ -9,12 +15,28 @@ Integrantes del equipo:
 
 .Santiago Diaz Devia
 
--Logo del equipo:
+
+- LOGO DEL EQUIPO:
+
+![logo](https://user-images.githubusercontent.com/124641609/236643005-ae69d116-6acc-44e1-b183-7cfb1527106e.png)
+
+
+
+
+
+
 
 
 ---
 
 1) Desarrolle un programa que ingrese un número entero y separe todos los dígitos que componen el número.
+
+
+
+Lo primero que hacemos es crear una variable en forma de lista donde guardaremos los valore
+despues de esto creamos y definimos la funcion a relizar con su respectivo elemento, haciendo uso del ciclo while
+expones ciertas condiciones con el fin de desenglosar el numero por medio del divisiones entre el numero 10,
+por ultimo imprimimos los numeros hasta que llegen a 0.
 
 ![Punto 1, taller 2](https://user-images.githubusercontent.com/124641609/236598141-8e6d4ee3-72bb-4c71-bebb-97f77c3a80a9.JPG)
 
@@ -22,6 +44,13 @@ Integrantes del equipo:
 ---
 
 2) Desarrolle un programa que ingrese un número flotante y separe su parte entera de la parte decimal, y luego entre los dígitos tanto de la parte entera como de la decimal.
+
+
+
+Definimos la funcion para separar los digitos, definimos la variable tanto entera haciendo uso de la funcion int
+como la funcion decimal haciendo uso de la funcion valor absoluto, esta ultima estara establecida por la resta entre 
+la variable del numero y el numero entero. Por otro lado para separar los digitos de cada uno de los resultados 
+debemos recorrer cada digito con ayuda de la funcion for.
 
 ![Punto 2, taller 2](https://user-images.githubusercontent.com/124641609/236599247-b3a216f7-6ea3-46e6-a406-529b3830e232.JPG)
 
@@ -45,3 +74,24 @@ Integrantes del equipo:
 ---
 
 7) Desarrolle un programa que determine si en una lista se encuentra una cadena de caracteres con dos o más vocales. Si la cadena existe debe imprimirla y si no existe debe imprimir 'No existe'.
+
+---
+
+8) Desarrollar un programa que dadas dos listas determine que elementos tiene la primer lista que no tenga la segunda lista.
+
+---
+
+9) Resolver el punto 7 del taller 1 usando operaciones con vectores
+
+Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:
+
+-El promedio
+
+![Punto 9 1, taller 2](https://user-images.githubusercontent.com/124641609/236645752-3a6fa7da-94c9-4978-87c8-9c4022f74efa.JPG)
+
+-La mediana
+
+---
+
+10)  Desarrollar un algoritmo que determine si una matriz es mágica. Se dice que una matriz cuadrada es mágica si la suma de cada una de sus filas, de cada una de sus columnas y de cada diagonal es igual.
+
