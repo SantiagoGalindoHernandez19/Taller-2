@@ -91,6 +91,27 @@ Escriba un programa que pida 5 números reales y calcule las siguientes operacio
 
 -La mediana
 
+![Mediana](https://user-images.githubusercontent.com/124641609/236648665-2eaff7a4-3472-4acf-b1f1-674d2477d840.JPG)
+
+-Promedio multiplicativo
+
+![Promedio multiplicativo](https://user-images.githubusercontent.com/124641609/236648698-cb2a3eda-ed12-460e-818b-566a103e5e8d.JPG)
+
+-Ordenar los números de forma ascendente
+
+![Mayor a menor](https://user-images.githubusercontent.com/124641609/236648738-fda031c3-f441-470c-98a6-ce78aa1b1178.JPG)
+
+-Ordenar los números de forma descendente
+
+![Menor a mayor](https://user-images.githubusercontent.com/124641609/236648749-67aa8035-20e6-4d21-94ef-21300cacd708.JPG)
+
+-La raíz cúbica del menor número
+
+![Raiz cubica del numero](https://user-images.githubusercontent.com/124641609/236648996-c4306d53-522e-45d9-a5b7-e5b4b12afe04.JPG)
+
+
+
+
 ---
 
 10)  Desarrollar un algoritmo que determine si una matriz es mágica. Se dice que una matriz cuadrada es mágica si la suma de cada una de sus filas, de cada una de sus columnas y de cada diagonal es igual.
