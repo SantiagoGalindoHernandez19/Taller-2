@@ -11,6 +11,7 @@ Integrantes del equipo:
 
 -Logo del equipo:
 
+
 ---
 
 1) Desarrolle un programa que ingrese un número entero y separe todos los dígitos que componen el número.
@@ -22,6 +23,7 @@ Integrantes del equipo:
 
 2) Desarrolle un programa que ingrese un número flotante y separe su parte entera de la parte decimal, y luego entre los dígitos tanto de la parte entera como de la decimal.
 
+![Punto 2, taller 2](https://user-images.githubusercontent.com/124641609/236599247-b3a216f7-6ea3-46e6-a406-529b3830e232.JPG)
 
 ---
 
