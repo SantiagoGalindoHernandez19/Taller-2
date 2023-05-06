@@ -125,4 +125,5 @@ Escriba un programa que pida 5 números reales y calcule las siguientes operacio
 10)  Desarrollar un algoritmo que determine si una matriz es mágica. Se dice que una matriz cuadrada es mágica si la suma de cada una de sus filas, de cada una de sus columnas y de cada diagonal es igual.
 
 
+![Punto 10, taller 2](https://user-images.githubusercontent.com/124641609/236649267-1c8a29d5-5dc8-4b8a-a6c0-2e4514bde1db.JPG)
 
