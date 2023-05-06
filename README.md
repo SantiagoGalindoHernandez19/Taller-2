@@ -72,6 +72,8 @@ debemos recorrer cada digito con ayuda de la funcion for.
 
 5)  Desarrollar un programa que permita determinar el Minimo Comun Multiplo de dos numeros enteros. Abordar el problema desde la perspectiva iterativa como recursiva.
 
+![Punto 5, taller 2](https://user-images.githubusercontent.com/124641609/236649193-b4d31309-d63d-4b7a-969e-a0262e386d6e.JPG)
+
 
 ---
 
@@ -121,4 +123,6 @@ Escriba un programa que pida 5 números reales y calcule las siguientes operacio
 ---
 
 10)  Desarrollar un algoritmo que determine si una matriz es mágica. Se dice que una matriz cuadrada es mágica si la suma de cada una de sus filas, de cada una de sus columnas y de cada diagonal es igual.
+
+
 
