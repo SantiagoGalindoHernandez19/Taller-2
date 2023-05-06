@@ -65,9 +65,13 @@ debemos recorrer cada digito con ayuda de la funcion for.
 
 4)  Diseñar una función que permita calcular una aproximación de la función coseno alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Taylor. nota: use math para traer la función coseno y mostrar la diferencia entre el valor real y la aproximación. Con cuantos valores de la serie, se tienen errores del 10%, 1%, 0.1% y 0.001%.
 
+![Punto 4, reto 8](https://user-images.githubusercontent.com/124641609/236649106-147b2273-83af-481b-b7ee-4bd8a021e771.JPG)
+
+
 ---
 
 5)  Desarrollar un programa que permita determinar el Minimo Comun Multiplo de dos numeros enteros. Abordar el problema desde la perspectiva iterativa como recursiva.
+
 
 ---
 
