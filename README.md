@@ -13,6 +13,18 @@ Integrantes del equipo:
 
 ---
 
+1) Desarrolle un programa que ingrese un número entero y separe todos los dígitos que componen el número.
+
+![Punto 1, taller 2](https://user-images.githubusercontent.com/124641609/236598141-8e6d4ee3-72bb-4c71-bebb-97f77c3a80a9.JPG)
+
+
+---
+
+2) Desarrolle un programa que ingrese un número flotante y separe su parte entera de la parte decimal, y luego entre los dígitos tanto de la parte entera como de la decimal.
+
+
+---
+
 3)  Desarrollar un programa que permita ingresar dos números enteros y determinar si se trata de números espejos.
 
 
