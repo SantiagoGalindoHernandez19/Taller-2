@@ -58,6 +58,8 @@ debemos recorrer cada digito con ayuda de la funcion for.
 
 3)  Desarrollar un programa que permita ingresar dos números enteros y determinar si se trata de números espejos.
 
+![Punto 3, talle 2](https://user-images.githubusercontent.com/124641609/236649067-7eb73316-043f-4813-a27b-e5a5429da1fa.JPG)
+
 
 ---
 
