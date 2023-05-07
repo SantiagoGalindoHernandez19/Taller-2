@@ -94,6 +94,7 @@ debemos recorrer cada digito con ayuda de la funcion for.
 8) Desarrollar un programa que dadas dos listas determine que elementos tiene la primer lista que no tenga la segunda lista.
 
 
+![Punto 8, taller 2](https://user-images.githubusercontent.com/124641609/236652503-d859264d-d13b-419f-88a8-8ce2844fec99.JPG)
 
 ---
 
