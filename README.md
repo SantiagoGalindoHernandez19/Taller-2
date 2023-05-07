@@ -85,9 +85,15 @@ debemos recorrer cada digito con ayuda de la funcion for.
 
 7) Desarrolle un programa que determine si en una lista se encuentra una cadena de caracteres con dos o más vocales. Si la cadena existe debe imprimirla y si no existe debe imprimir 'No existe'.
 
+
+![Punto 7, taller 2](https://user-images.githubusercontent.com/124641609/236652360-89976bb7-7611-418d-8da6-fcea9a17bfb2.JPG)
+
+
 ---
 
 8) Desarrollar un programa que dadas dos listas determine que elementos tiene la primer lista que no tenga la segunda lista.
+
+
 
 ---
 
