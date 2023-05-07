@@ -79,6 +79,7 @@ debemos recorrer cada digito con ayuda de la funcion for.
 
 6) Desarrollar un programa que determine si en una lista no existen elementos repetidos.
 
+![Punto 6, taller 2](https://user-images.githubusercontent.com/124641609/236652304-abd87803-6692-4408-a887-9fcd091e186b.JPG)
 
 ---
 
