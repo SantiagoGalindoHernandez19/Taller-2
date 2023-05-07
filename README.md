@@ -9,7 +9,7 @@ Los siembramaticas
 
 - INTEGRANTES DEL EQUIPO:
 
-.Donovan
+.Donovan Chigozie Obialla Hernandez
 
 .Santiago Galindo Hernandez
 
